@@ -2,7 +2,7 @@
 
 The iconic Wild West 1873 Winchester rifle modeled in Autodesk Maya 2018.  My goal for this model was to learn the process of making damaged wood and metal.  My process of creating this was to first get a low poly base model of the rifle.  I then upped the poly count by smoothing parts of the rifle that standout to the viewer.  The textures were made and finished product were rendered in Substance Painter 2018.
 
-![Image of 1873 Winchester rifle]
+![winchester_side](https://user-images.githubusercontent.com/37832901/39000166-54bc0c26-43c1-11e8-90b4-e0a1ef213a0c.jpg)
 
 
 
