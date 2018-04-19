@@ -1,8 +1,8 @@
 ### Winchester Rifle
 
-You can use the [editor on GitHub](https://github.com/andrewbeall/andrewbeall.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The iconic Wild West 1873 Winchester rifle modeled in Autodesk Maya 2018.  My goal for this model was to learn the process of making damaged wood and metal.  My process of creating this was to first get a low poly base model of the rifle.  I then upped the poly count by smoothing parts of the rifle that standout to the viewer.  The textures were made and finished product were rendered in Substance Painter 2018.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
