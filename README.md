@@ -6,7 +6,6 @@ The iconic Wild West 1873 Winchester rifle modeled in Autodesk Maya 2018.  My go
 
 ![winchester_left](https://user-images.githubusercontent.com/37832901/39000349-ca7bd6ee-43c1-11e8-88d7-8a16be1638d5.jpg)
 
-![winchester_right](https://user-images.githubusercontent.com/37832901/39000342-c4def23e-43c1-11e8-857a-cfd12e8f1a30.jpg)
 
 
 
