@@ -25,7 +25,7 @@ This helmet is the helmet of the Character Ryker who is featured in the 3d anima
 ![ryker_helmet_front](https://user-images.githubusercontent.com/37832901/39170525-e87a21d6-4769-11e8-87f9-9404a4c2dbf3.png)
 
 ![ryker_helmet_side](https://user-images.githubusercontent.com/37832901/39170334-1e99862c-4769-11e8-88e6-27390ee71814.png)
-893e471.png)
+
 
 ```markdown
 Syntax highlighted code block
