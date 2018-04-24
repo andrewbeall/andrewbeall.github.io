@@ -37,32 +37,9 @@ This is the terrain of the planet Prodigium which is in the 3d animated short "C
 
 A potted plant that modeled in Autodesk Maya 2018.  The goal for this model was to create an asset taht is ideal for populating a scene which needs a fast load time. The model, textures, and finished product were rendered in Autodesk Maya 2018.
 
+![screen shot 2018-04-24 at 12 22 29 am](https://user-images.githubusercontent.com/37832901/39189869-5723d816-47a1-11e8-829f-db85e1001250.png)
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andrewbeall/andrewbeall.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
