@@ -6,9 +6,6 @@ The iconic Wild West 1873 Winchester rifle modeled in Autodesk Maya 2018.  My go
 
 ![winchester_left](https://user-images.githubusercontent.com/37832901/39000349-ca7bd6ee-43c1-11e8-88d7-8a16be1638d5.jpg)
 
-
-
-
 ## Black Cherry-Bicycle 
 
 A bicycle inspired by State Bicycle's HANZO bicycle modeled in Autodesk Maya 2018.  My goal for this model was to look at a product and make my own iteration of it with a particular color scheme.  I used the color's of black cherry fruit for the inspiration of the color pallet of the Black Cherry-Bicycle.  The textures were made and finished product were rendered in Substance Painter 2018.
@@ -25,6 +22,13 @@ This helmet is the helmet of the Character Ryker who is featured in the 3d anima
 ![ryker_helmet_front](https://user-images.githubusercontent.com/37832901/39170525-e87a21d6-4769-11e8-87f9-9404a4c2dbf3.png)
 
 ![ryker_helmet_side](https://user-images.githubusercontent.com/37832901/39170334-1e99862c-4769-11e8-88e6-27390ee71814.png)
+
+
+#### 
+
+![terrain](https://user-images.githubusercontent.com/37832901/39188672-5a7303fa-479e-11e8-95f4-133a466c5d42.JPG)
+
+![terrain_zoom](https://user-images.githubusercontent.com/37832901/39188679-5cf29e92-479e-11e8-8c26-77fb29211000.JPG)
 
 
 ```markdown
