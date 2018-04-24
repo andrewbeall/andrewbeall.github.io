@@ -13,6 +13,8 @@ The iconic Wild West 1873 Winchester rifle modeled in Autodesk Maya 2018.  My go
 
 A bicycle inspired by State Bicycle's HANZO bicycle modeled in Autodesk Maya 2018.  My goal for this model was to look at a product and make my own iteration of it with a particular color scheme.  I used the color's of black cherry fruit for the inspiration of the color pallet of the Black Cherry-Bicycle.  The textures were made and finished product were rendered in Substance Painter 2018.
 
+![bicycle_black_cherry_side](https://user-images.githubusercontent.com/37832901/39169520-24ef0252-4766-11e8-913d-59c867ee9fd4.jpg)
+
 ![bicycle_black_cherry_angle](https://user-images.githubusercontent.com/37832901/39169383-985df064-4765-11e8-8014-81cecb103bc6.jpg)
 
 
