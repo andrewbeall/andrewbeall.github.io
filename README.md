@@ -41,6 +41,9 @@ A potted plant that modeled in Autodesk Maya 2018.  The goal for this model was 
 
 ##### Resume
 
+[Beall_Resume-4:24:2018.pdf](https://github.com/andrewbeall/andrewbeall.github.io/files/1943406/Beall_Resume-4.24.2018.pdf)
+
+
 
 
 
