@@ -43,8 +43,7 @@ A potted plant that modeled in Autodesk Maya 2018.  The goal for this model was 
 
 ###### Resume
 
-![resume1stpage](https://user-images.githubusercontent.com/37832901/39196862-2859924a-47b1-11e8-8a10-15df5771b16f.png)
-![resume2ndpage](https://user-images.githubusercontent.com/37832901/39196865-29d420fe-47b1-11e8-95d7-eb0daa7fce0a.png)
+
 
 
 
