@@ -11,7 +11,7 @@ A bicycle inspired by State Bicycle's HANZO bicycle modeled in Autodesk Maya 201
 
 ## Kitchen Chair
 
-The metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal for this model was to model something I used on a daily basis and learn the process of making cloth and painted metal.  The textures were made and finsihed product were rendered in Substance Painter 2018.
+The metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal for this model was to model something I used on a daily basis and learn the process of making cloth and painted metal.  The textures were made and finished product were rendered in Substance Painter 2018.
 
 ![kitchen_chair_left](https://user-images.githubusercontent.com/37832901/50990414-fd36cb80-14df-11e9-81ab-fb8f7ea501d1.jpg)
 
