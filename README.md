@@ -46,6 +46,8 @@ This helmet is the helmet of the Character Ryker who is featured in the 3d anima
 
 This is the terrain of the planet Prodigium which is in the 3d animated short "Collector Corp".  The goal for the model of the terrain was to create a mountainouse terrain with a small valley.  I created the terrain in Autodesk Maya 2018 using displacment maps and using them as stamps on a flat plane.  The mesh was created and rendered in Autodesk Maya 2018.
 
+Watch the animation here: https://www.youtube.com/watch?v=Xb39rDIO3as
+
 ![terrain](https://user-images.githubusercontent.com/37832901/39188672-5a7303fa-479e-11e8-95f4-133a466c5d42.JPG)
 
 ![terrain_zoom](https://user-images.githubusercontent.com/37832901/39188679-5cf29e92-479e-11e8-8c26-77fb29211000.JPG)
