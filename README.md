@@ -24,6 +24,7 @@ A metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal
 
 Watch the animated text here: https://www.youtube.com/watch?v=Xb39rDIO3as
 
+
 ![3d_animated_text_jiggle](https://user-images.githubusercontent.com/37832901/51687047-aa6d1180-1fbf-11e9-804d-da179e5f0958.JPG)
 
 ## Winchester Rifle
