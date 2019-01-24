@@ -22,6 +22,8 @@ A metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal
 
 3D "Jiggle" text modeled, textured, and animated in Autodesk Maya 2018.  My goal for this animated text was to learn the process of texturing jello and using the jiggle deformer.  My process was to first apply the phong material and looke at reference images of red jello to get the correct shade of red.  I then applied the jiggle deformer and tweaked the deformer's paramets to achieve the desired motion.
 
+Watch the animated text here: https://www.youtube.com/watch?v=Xb39rDIO3as
+
 ![3d_animated_text_jiggle](https://user-images.githubusercontent.com/37832901/51687047-aa6d1180-1fbf-11e9-804d-da179e5f0958.JPG)
 
 ## Winchester Rifle
@@ -46,7 +48,7 @@ This helmet is the helmet of the Character Ryker who is featured in the 3d anima
 
 This is the terrain of the planet Prodigium which is in the 3d animated short "Collector Corp".  The goal for the model of the terrain was to create a mountainouse terrain with a small valley.  I created the terrain in Autodesk Maya 2018 using displacment maps and using them as stamps on a flat plane.  The mesh was created and rendered in Autodesk Maya 2018.
 
-Watch the animation here: https://www.youtube.com/watch?v=Xb39rDIO3as
+
 
 ![terrain](https://user-images.githubusercontent.com/37832901/39188672-5a7303fa-479e-11e8-95f4-133a466c5d42.JPG)
 
