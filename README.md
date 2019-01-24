@@ -22,7 +22,7 @@ A metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal
 
 3D "Jiggle" text modeled, textured, and animated in Autodesk Maya 2018.  My goal for this animated text was to learn the process of texturing jello and using the jiggle deformer.  My process was to first apply the phong material and looke at reference images of red jello to get the correct shade of red.  I then applied the jiggle deformer and tweaked the deformer's paramets to achieve the desired motion.
 
-
+![3d_animated_text_jiggle](https://user-images.githubusercontent.com/37832901/51687047-aa6d1180-1fbf-11e9-804d-da179e5f0958.JPG)
 
 ## Winchester Rifle
 
