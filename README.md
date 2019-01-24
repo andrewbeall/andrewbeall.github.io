@@ -11,11 +11,17 @@ A bicycle inspired by State Bicycle's HANZO bicycle modeled in Autodesk Maya 201
 
 ## Kitchen Chair
 
-The metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal for this model was to model something I used on a daily basis and learn the process of making cloth and painted metal.  The textures were made and finished product were rendered in Substance Painter 2018.
+A metal kitchen chair with a seat cushion modeled in Autodesk Maya 2018. My goal for this model was to model something I used on a daily basis and learn the process of making cloth and painted metal.  The textures were made and finished product were rendered in Substance Painter 2018.
 
 ![kitchen_chair_left](https://user-images.githubusercontent.com/37832901/50990414-fd36cb80-14df-11e9-81ab-fb8f7ea501d1.jpg)
 
 ![kitchen_chair_right](https://user-images.githubusercontent.com/37832901/50990422-ff008f00-14df-11e9-8ede-2768ec8d7bfe.jpg)
+
+
+## 3D Animated Text
+
+3D "Jiggle" text modeled, textured, and animated in Autodesk Maya 2018.  My goal for this animated text was to learn the process of texturing jello and using the jiggle deformer.  My process was to first apply the phong material and looke at reference images of red jello to get the correct shade of red.  I then applied the jiggle deformer and tweaked the deformer's paramets to achieve the desired motion.
+
 
 
 ## Winchester Rifle
